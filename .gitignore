@@ -1,0 +1,8 @@
+node_modules
+uploads
+.env.prod
+.env.dev
+*.log
+src/migration.js
+src/migration.dev.js
+src/migrate-mongo-config.js

@@ -1,0 +1,8 @@
+{
+    "firstName": "Matheus",
+    "lastName": "Nascimento Cavallini",
+    "email": "nascimentocavallini@hotmail.com",
+    "password": "senha",
+    "description": "Descrição teste",
+    "isAdmin": true
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Teste Nome",
+    "description": "Teste Descrição",
+    "address": "Teste Endereço",
+    "locations": ["5cfc2c2fe795ae2f902185f9"],
+    "categories": ["5c6dd271e57bd5223882cc8c"],
+    "types": ["5cfc2c73e795ae2f902185ff"],
+    "city": "São Luiz Gonzaga",
+    "geolocation": "Teste Geolocalização",
+    "tags": ["5cfc3dc1e795ae2f90218602", "5cfc3ddbe795ae2f90218603"],
+    "user": "5c6e011f45c9b4250477ee42",
+    "images": ["5cfc3bd5e69260683c391f70", "5cfc3bd5e69260683c391f71"],
+    "priceNumber": 49.99,
+    "priceCustom": "300 sacas de soja por hectare"
+}
